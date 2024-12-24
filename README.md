@@ -1,0 +1,1 @@
+In the stage of studying in go my code, I learned a lot of things and developed from myself. I also knew many friends there. I can say that I am capable, but with go my code, I focused my knowledge and focused my knowledge through projects.
